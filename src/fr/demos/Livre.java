@@ -16,7 +16,7 @@ public class Livre extends Article{
 		this.auteur = auteur;
 		this.editor = editor;
 		this.genre =  genre;
-		taxe = 0.10;
+		taxe = 0.21;
 	}
 	
 	
